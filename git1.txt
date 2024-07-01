@@ -3,5 +3,6 @@ git status
 git add
 git commit -m
 git config --global user.name "USrname"
-git clone
+git clong 
+git remote set-url --add origin https://""//
 
