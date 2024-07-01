@@ -5,4 +5,7 @@ git commit -m
 git config --global user.name "USrname"
 git clong 
 git remote set-url --add origin https://""//
+git remote set-url --delete origin https./
+git rm -cached
+
 
