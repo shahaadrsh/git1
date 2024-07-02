@@ -9,5 +9,7 @@ git remote set-url --delete origin https./
 git rm -cached
 git reset
 git revert
+git stash pop
+git cherry-pick
 
 
